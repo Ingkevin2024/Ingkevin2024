@@ -30,8 +30,9 @@
 
 # 🧠 Tecnologías que uso
 
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,nodejs,git,github,vscode,linux,figma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux&perline=6"/>
 </p>
 
 ---
